@@ -1,0 +1,114 @@
+What's the deal with 0?  Not like 0.
+You ever notice 1?
+
+What's the deal with Temp1?
+What's the deal with Temp2?
+What's the deal with Out? Not like 1.
+
+What's the deal with NUM?
+What's the deal with Type?
+
+What's the deal with Type3?
+What's the deal with Type2?
+What's the deal with Type1?
+
+What's the deal with ID? Right?
+So...
+	Let's talk about Type1. Not like Type1.
+	Let's talk about Type2. Not like Type2.
+	Let's talk about Type3. Not like Type3.
+
+	Let's talk about NUM. Right?
+	So...
+		Let's talk about Type. Right? 
+
+		/////////////////////////////////////////////////////////////////////
+		Let's talk about Temp1. Not like Temp1. It's kinda like 1.
+		Let's talk about Type. Not like 1.
+		So...
+			Let's talk about Temp1. Not like 1.
+			Let's talk about 0.
+		Moving on...
+
+		Let's talk about Temp1.
+		So...
+			Let's talk about Temp1. Not like Temp1.
+			It's kinda like NUM.
+			Let's talk about Type1.
+			So...
+				Let's talk about Temp1. Not like 1.
+				Let's talk about Type1. Not like 1.
+				Let's talk about Temp2. Not like Temp2.
+				It's kinda like Temp1.
+				Just like Type1.
+			Moving on...
+			Let's talk about Type1.
+			It's kinda like NUM.
+			Let's talk about 0.
+		Moving on...
+
+		/////////////////////////////////////////////////////////////////////
+		Let's talk about Temp1. Not like Temp1. It's kinda like 1.
+		Let's talk about Type. Not like 1.
+		So...
+			Let's talk about Temp1. Not like 1.
+			Let's talk about 0.
+		Moving on...
+
+		Let's talk about Temp1.
+		So...
+			Let's talk about Temp1. Not like Temp1.
+			It's kinda like NUM.
+			Let's talk about Type2.
+			So...
+				Let's talk about Temp1. Not like 1.
+				Let's talk about Type2. Not like 1.
+				Let's talk about Temp2. Not like Temp2.
+				It's kinda like Temp1.
+				Just like Type2.
+			Moving on...
+			Let's talk about Type2.
+			It's kinda like NUM.
+			Let's talk about 0.
+		Moving on...
+
+		/////////////////////////////////////////////////////////////////////
+		Let's talk about Temp1. Not like Temp1. It's kinda like 1.
+		Let's talk about Type. Not like 1.
+		So...
+			Let's talk about Temp1. Not like 1.
+			Let's talk about 0.
+		Moving on...
+
+		Let's talk about Temp1.
+		So...
+			Let's talk about Temp1. Not like Temp1.
+			It's kinda like NUM.
+			Let's talk about Type3.
+			So...
+				Let's talk about Temp1. Not like 1.
+				Let's talk about Type3. Not like 1.
+				Let's talk about Temp2. Not like Temp2.
+				It's kinda like Temp1.
+				Just like Type3.
+			Moving on...
+			Let's talk about Type3.
+			It's kinda like NUM.
+			Let's talk about 0.
+		Moving on...
+		
+		Let's talk about NUM. Right?
+	Moving on...
+
+	///
+
+	Let's talk about Temp1. Not like Temp1.
+	It's kinda like Type1.
+	Just like Type2.
+	Just like Type3.
+	
+	Let's talk about Out. It's kinda like Temp1.
+	
+	Let's talk about ID. Right?
+Moving on...
+Let's talk about Out. See?
