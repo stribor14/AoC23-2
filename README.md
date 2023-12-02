@@ -1,5 +1,5 @@
 # AoC23-2
-Solution in "Airplane food" for Advent-of-code 2023 day 2 - part 2 https://adventofcode.com/2023/day/2
+Solution in "Airline food" for Advent-of-code 2023 day 2 - part 2 https://adventofcode.com/2023/day/2
 
 Link to interpreter: https://github.com/jamie-large/Airline-Food/blob/main/Airline-food.py
 Default interpreter prints ascii characters, so I changed line 203 to output raw number from stack.
